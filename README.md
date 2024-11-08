@@ -35,7 +35,7 @@ when capacitance needs to be charged
 
 # circuit diagram
  <p align="center">
- <img width="800" height="300" src="/Images/circuit.jpeg">
+ <img width="800" height="300" src="/Images/schematic.jpeg">
  </p>
 # Specifications
 
