@@ -140,6 +140,12 @@ Create the schematic of your circuit withh mos transistors and extract the netli
 - Note: For more details go to the cells folder in sky_fd_pr. Open the specific component folder which you want to use. Then open the test folder and check the SPICE file. The SPICE file is an example of implementation of
  that component. You will get to know how to use the component in your ckt.
 - Step6. Now Run the ckt with ngspice
+  ### To Run the ckt using ngspice:
+- Step1. Right click on the .cir file.
+- Step2. Click on Open With
+- Step3. Browse for the ngspice.
+- Step4. If ngspice is not present scroll down click on More Apps.
+- Steps5. Go to the FOSSEE folder search for Ngspice. Run it.
 ## Contributors 
 
 - **NANDYALA NAGA SUNANDITHA**
@@ -148,17 +154,10 @@ Create the schematic of your circuit withh mos transistors and extract the netli
 
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd.
 - Sumanto kar, Assistant Project Manager, FOSSEE
-- Dr.K.Babulu, Professor, Department of ECE, UCEV, JNTUK, DWARAPUDI Post, VIZIANAGARAM, A.P, 53500 
 
 ## Contact Information
 
 - NANDYALA NAGA SUNANDITHA,student,rajiv gandhi university of knowledge technologies ,nandunandyala2004@gmail.com
-- Dr.K.Babulu, Professor, Department of ECE, UCEV, JNTUK kapbbl.ece@jntugvcev.edu.in
 - Kunal Ghosh, Director, VSD Corp. Pvt. Ltd. kunalghosh@gmail.com
 - Sumanto kar, Assistant Project Manager, FOSSEE
-### To Run the ckt using ngspice:
-- Step1. Right click on the .cir file.
-- Step2. Click on Open With
-- Step3. Browse for the ngspice.
-- Step4. If ngspice is not present scroll down click on More Apps.
-- Steps5. Go to the FOSSEE folder search for Ngspice. Run it.
+
