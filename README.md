@@ -37,6 +37,7 @@ when capacitance needs to be charged
  <p align="center">
  <img width="800" height="300" src="/Images/schematic.png">
  </p>
+ 
 # Specifications
 
 Here are some specifications of a NAND gate:
@@ -154,17 +155,18 @@ Create the schematic of your circuit withh mos transistors and extract the netli
 - Steps5. Go to the FOSSEE folder search for Ngspice. Run it.
 
    <p align="center">
- <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/analysis.png">
+ <img width="800" height="300" src="/pre_layout/pre_layout_plot/analysis.png">
  </p>
   <p align="center">
- <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/input_a.png">
+ <img width="800" height="300" src="/pre_layout/pre_layout_plot/input_a.png">
  </p>
   <p align="center">
- <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/input_b.png">
+ <img width="800" height="300" src="/pre_layout/pre_layout_plot/input_b.png">
  </p>
   <p align="center">
  <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/output.png">
  </p>
+ 
 ## Contributors 
 
 - **NANDYALA NAGA SUNANDITHA**
