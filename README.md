@@ -30,7 +30,7 @@ of PFAL circuit, the equivalent resistance is smaller
 when capacitance needs to be charged 
 # Block diagram of Nandpfal
  <p align="center">
- <img width="800" height="300" src="C:\Users\NANDITHA\Pictures\Screenshots">
+ <img width="800" height="300" src="/Images/blockdiagram.jpeg">
  </p>
 
 # circuit diagram
