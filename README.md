@@ -1,9 +1,9 @@
 # nandgatepfal
 This project includes the simulation of nand gate using positive feedback adiabatic logic 
 # contents
-- [Overview of Nand gate](# overview of Nand gate )
-- [Block Diagram of Nand gate](# Block diagram of Nandpfal)
-- [Circuit Diagram of Nandpfsl](# circuit diagram)
+- [Overview of Nand gate](#overview of Nand gate )
+- [Block Diagram of Nand gate](#Block diagram of Nandpfal)
+- [Circuit Diagram of Nandpfsl](#circuit diagram)
 - [Specifications](#Specifications)
 - [Open Source Tools Used](#Open-Source-Tools-Used)
 - [Installation in Ubuntu](#Installation-in-Ubuntu)
