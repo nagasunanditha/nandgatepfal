@@ -164,7 +164,7 @@ Create the schematic of your circuit withh mos transistors and extract the netli
  <img width="800" height="300" src="/pre_layout/pre_layout_plot/input_b.png">
  </p>
   <p align="center">
- <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/output.png">
+ <img width="800" height="300" src="/pre_layout/pre_layout_plot/output.png">
  </p>
  
 ## Contributors 
