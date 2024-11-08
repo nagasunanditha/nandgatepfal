@@ -1,6 +1,5 @@
 # nandgatepfal
 This project includes the simulation of nand gate using positive feedback adiabatic logic 
-# contents
 # Contents
 - [Overview of Nandgate](#overview-of-Nand-gate)
 - [Block Diagram of Nandpfsl](#Block-diagram-of-Nandpfal)
@@ -30,6 +29,10 @@ the performance of the circuit. Due to this logical style
 of PFAL circuit, the equivalent resistance is smaller
 when capacitance needs to be charged 
 # Block diagram of Nandpfal
+ <p align="center">
+ <img width="800" height="300" src="C:\Users\NANDITHA\Pictures\Screenshots">
+ </p>
+
 # circuit diagram
 # Specifications
 
