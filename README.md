@@ -34,6 +34,9 @@ when capacitance needs to be charged
  </p>
 
 # circuit diagram
+ <p align="center">
+ <img width="800" height="300" src="/Images/circuit.jpeg">
+ </p>
 # Specifications
 
 Here are some specifications of a NAND gate:
