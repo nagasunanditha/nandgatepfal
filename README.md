@@ -1,9 +1,10 @@
 # nandgatepfal
 This project includes the simulation of nand gate using positive feedback adiabatic logic 
 # contents
-- [Overview of Nand gate](#overview of Nand gate )
-- [Block Diagram of Nand gate](#Block diagram of Nandpfal)
-- [Circuit Diagram of Nandpfsl](#circuit diagram)
+# Contents
+- [Overview of Nandgate](#overview-of-Nand-gate)
+- [Block Diagram of Nandpfsl](#Block-diagram-of-Nandpfal)
+- [Circuit Diagram of Nandpfsl](#circuit-diagram)
 - [Specifications](#Specifications)
 - [Open Source Tools Used](#Open-Source-Tools-Used)
 - [Installation in Ubuntu](#Installation-in-Ubuntu)
@@ -17,7 +18,17 @@ This project includes the simulation of nand gate using positive feedback adiaba
 - [Acknowledgmentsg](#Acknowledgments)
 - [Contact Information](#Contact_Information)
 # overview of Nand gate 
-    In PFAL ,a latch is formed by adding two PMOS and two NMOS that avoids a logic level degradation on the output nodes. The two n-tress realize the logic functions. It generates positive and negative outputs. The functional blocks are in parallel with the Pmosfet and form a tramission gate. PMOS transistor will determine the charging path resistance. Decreasing the charging path, resistance of the circuit will improve the performance of the circuit. Due to this logical style of PFAL circuit, the equivalent resistance is smaller when capacitance needs to be charged.
+  In PFAL ,a latch is formed by adding two PMOS and
+two NMOS that avoids a logic level degradation on
+the output nodes. The two n-tress realize the logic
+functions. It generates positive and negative outputs.
+The functional blocks are in parallel with the Pmosfet
+and form a tramission gate. PMOS transistor will deter-
+mine the charging path resistance. Decreasing the
+charging path, resistance of the circuit will improve
+the performance of the circuit. Due to this logical style
+of PFAL circuit, the equivalent resistance is smaller
+when capacitance needs to be charged 
 # Block diagram of Nandpfal
 # circuit diagram
 # Specifications
