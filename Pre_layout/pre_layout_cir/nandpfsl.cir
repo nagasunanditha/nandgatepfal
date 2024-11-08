@@ -1,0 +1,27 @@
+* c:\Users\NANDITHA\esim-workspace\nandpfsl\nandpfsl.cir
+.lib "models/sky130.lib.spice" tt
+
+xsc10 net-_sc10-pad1_ net-_sc10-pad2_ sky130_fd_pr__cap_mim_m3_1
+xsc2 net-_sc1-pad3_ net-_sc10-pad2_ sky130_fd_pr__cap_mim_m3_1 
+xsc5 out out_ net-_sc10-pad2_ net-_sc10-pad2_ sky130_fd_pr__nfet_01v8
+xsc7 out_ out net-_sc10-pad2_ net-_sc10-pad2_ sky130_fd_pr__nfet_01v8 
+xsc9 net-_sc8-pad3_ b net-_sc10-pad1_ gnd sky130_fd_pr__nfet_01v8 
+xsc8 c a net-_sc8-pad3_ gnd sky130_fd_pr__nfet_01v8 
+xsc1 c b_ net-_sc1-pad3_ gnd sky130_fd_pr__nfet_01v8
+xsc3 c a_ net-_sc1-pad3_ gnd sky130_fd_pr__nfet_01v8 
+xsc4 out out_ c c sky130_fd_pr__pfet_01v8 
+xsc6 out_ out c c sky130_fd_pr__pfet_01v8
+v1  b_ gnd pulse(0 1.8 0 1e-6 1e-6 5e-6 1e-5)
+v2  a_ gnd pulse(0 1.8 0 1e-6 1e-6 5e-6 2e-5)
+v4  a gnd pulse(0 1.8 0 1e-6 1e-6 5e-6 2e-5)
+v5  b gnd pulse(0 1.8 0 1e-6 1e-6 5e-6 2e-5)
+v3  c gnd sine(0 1.8 100000 1 1)
+.tran 1e-06 100e-06 0e-06
+
+* Control Statements 
+.control
+run
+print allv > plot_data_v.txt
+print alli > plot_data_i.txt
+.endc
+.end
