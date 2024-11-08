@@ -41,9 +41,9 @@ when capacitance needs to be charged
 
 Here are some specifications of a NAND gate:
 
-Voltage supply: The voltage supply for a NAND gate is 5 V. 
-Propagation delay: The propagation delay for each gate is 10 ns. 
-Maximum toggle speed: The maximum toggle speed is 25 MHz. 
+Voltage supply: The voltage supply for a NAND gate is 1.8 V. 
+Propagation delay: The propagation delay for each gate is 10Us. 
+Maximum toggle speed: The maximum toggle speed is 100kHZ. 
 Power utilization: The power utilization for each gate is 10 mW
 # Open-Source-Tools-Used
 
@@ -152,6 +152,19 @@ Create the schematic of your circuit withh mos transistors and extract the netli
 - Step3. Browse for the ngspice.
 - Step4. If ngspice is not present scroll down click on More Apps.
 - Steps5. Go to the FOSSEE folder search for Ngspice. Run it.
+
+   <p align="center">
+ <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/analysis.png">
+ </p>
+  <p align="center">
+ <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/input_a.png">
+ </p>
+  <p align="center">
+ <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/input_b.png">
+ </p>
+  <p align="center">
+ <img width="800" height="300" src="/Images/pre_layout/pre_layout_plot/output.png">
+ </p>
 ## Contributors 
 
 - **NANDYALA NAGA SUNANDITHA**
